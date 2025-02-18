@@ -170,5 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#personal identifier
-* .env
+# personal identifiers
+*.env
